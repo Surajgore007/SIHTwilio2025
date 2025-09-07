@@ -1,0 +1,90 @@
+[
+  {
+    "phoneNumber": "whatsapp:+919967603858",
+    "message": "Storm at vashi miniseashore",
+    "hazardType": "storm",
+    "location": "vashi miniseashore",
+    "coordinates": null,
+    "urgency": "medium",
+    "messageSid": "SM3e6bc5fbb5d934c416da95a9c4824279",
+    "source": "whatsapp",
+    "status": "pending",
+    "hasMedia": false,
+    "id": "REP257751264",
+    "createdAt": "2025-09-07T15:09:11.264Z"
+  },
+  {
+    "phoneNumber": "whatsapp:+919967603858",
+    "message": "[Media message]",
+    "hazardType": "other",
+    "location": "Unknown location",
+    "coordinates": null,
+    "urgency": "medium",
+    "messageSid": "MMba994f09b9a1a692da073806dbb16182",
+    "source": "whatsapp",
+    "status": "pending",
+    "hasMedia": true,
+    "id": "REP257708947",
+    "createdAt": "2025-09-07T15:08:28.947Z",
+    "media": {
+      "filename": "REP257708947_1757257710450.jpg",
+      "filepath": "media\\REP257708947_1757257710450.jpg",
+      "size": 61331,
+      "contentType": "image/jpeg",
+      "url": "/media/REP257708947_1757257710450.jpg"
+    }
+  },
+  {
+    "phoneNumber": "whatsapp:+919967603858",
+    "message": "Test 4",
+    "hazardType": "other",
+    "location": "Unknown location",
+    "coordinates": null,
+    "urgency": "medium",
+    "messageSid": "SMaecdf9b445db3037d69b5865efd28131",
+    "source": "whatsapp",
+    "status": "pending",
+    "hasMedia": false,
+    "id": "REP257694749",
+    "createdAt": "2025-09-07T15:08:14.749Z"
+  },
+  {
+    "phoneNumber": "whatsapp:+919967603858",
+    "message": "Image test",
+    "hazardType": "other",
+    "location": "Unknown location",
+    "coordinates": null,
+    "urgency": "medium",
+    "messageSid": "MMad8c5910835ee7f8742bc9a20fafc65f",
+    "source": "sms",
+    "status": "pending",
+    "id": "REP256950698",
+    "createdAt": "2025-09-07T14:55:50.698Z"
+  },
+  {
+    "phoneNumber": "whatsapp:+919967603858",
+    "message": "Test",
+    "hazardType": "other",
+    "location": "Unknown location",
+    "coordinates": null,
+    "urgency": "medium",
+    "messageSid": "SMc3570d93d970355ab0ff0343e4857b2d",
+    "source": "sms",
+    "status": "pending",
+    "id": "REP256927484",
+    "createdAt": "2025-09-07T14:55:27.484Z"
+  },
+  {
+    "phoneNumber": "whatsapp:+919967603858",
+    "message": "Hell9 test",
+    "hazardType": "other",
+    "location": "Unknown location",
+    "coordinates": null,
+    "urgency": "medium",
+    "messageSid": "SM84d9aaf53b9e9ce871b0b4ddc0dedac1",
+    "source": "sms",
+    "status": "pending",
+    "id": "REP255361216",
+    "createdAt": "2025-09-07T14:29:21.216Z"
+  }
+]
